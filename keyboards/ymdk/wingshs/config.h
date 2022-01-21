@@ -15,11 +15,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
-#define VIAL_KEYBOARD_UID \
-    { 0xE8, 0xC7, 0xB4, 0x65, 0x7B, 0x48, 0x7C, 0x4D }
-
-#define VIAL_TAP_DANCE_ENTRIES 4
-
 #define UNICODE_SELECTED_MODES UC_LNX
 
 /* USB Device descriptor parameter */
